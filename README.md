@@ -1,2 +1,2 @@
 # RealElectronics
-A mod for barotrauma that contains realistic electrical equipments and electronic components to immersively expand the game's logical system capacities and possibilities. Currently under development.
+A mod for barotrauma that adds more electrical equipments, electronic components and dynamics to expand the game's logical system capacities and possibilities to a more realistic level. Currently under development.
